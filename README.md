@@ -7,3 +7,14 @@
   <img width="100" src="https://github.com/Ali-boorboor/Zarinpal-project/blob/main/HTML-gif.gif">
   <img width="100" src="https://github.com/Ali-boorboor/Zarinpal-project/blob/main/CSS-gif.gif">
 </div>
+
+## preview 🖼️:
+<img src='https://github.com/Ali-boorboor/Zarinpal-project/blob/main/zarinpal-header.png'>
+<img src='https://github.com/Ali-boorboor/Zarinpal-project/blob/main/zarinpal-main.png'>
+<img src='https://github.com/Ali-boorboor/Zarinpal-project/blob/main/zarinpal-main-2.png'>
+<img src='https://github.com/Ali-boorboor/Zarinpal-project/blob/main/zarinpal-main-3.png'>
+<img src='https://github.com/Ali-boorboor/Zarinpal-project/blob/main/zarinpal-main-4.png'>
+<img src='https://github.com/Ali-boorboor/Zarinpal-project/blob/main/zarinpal-main-5.png'>
+<img src='https://github.com/Ali-boorboor/Zarinpal-project/blob/main/zarinpal-main-6.png'>
+<img src='https://github.com/Ali-boorboor/Zarinpal-project/blob/main/zarinpal-main-7.png'>
+<img src='https://github.com/Ali-boorboor/Zarinpal-project/blob/main/zarinpal-footer.png'>
